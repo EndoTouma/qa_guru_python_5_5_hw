@@ -42,3 +42,5 @@ def test_successful_input_registration_form():
 		'Date of Birth 26 June,1994', 'Subjects Chemistry', 'Hobbies Reading',
 		'Picture test.png', 'Address No 1/46 kellagolla Road Nuwara Eliya, 22200 Nuwara Eliya, Sri Lanka',
 		'State and City NCR Delhi'))
+
+	print('Заполнение и отправка формы прошла успешно')
